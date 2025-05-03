@@ -1,5 +1,5 @@
 This project was undertaken as part of my coursework at BSBI. The primary objective was to apply the principles of predictive analytics and machine learning to a real-world classification problem: determining whether a mushroom is poisonous or not. 
-The project involved exploring and cleaning the mushroom dataset, building and training machine learning models to make predictions, and then evaluating and comparing the models' performance. This project demonstrates the application of Python to address a complex challenge, reinforcing the unit's objectives.
+The project involved exploring and cleaning the mushroom dataset, building and training machine learning models to make predictions, and then evaluating and comparing the models' performance using measurements such as accuracy, precision, recall, and F1-score. This project demonstrates the application of Python to address a complex challenge, reinforcing the unit's objectives.
 
   The machine learning models applied in this project include:
 • Gaussian Naive Bayes
